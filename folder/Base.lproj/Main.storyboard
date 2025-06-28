@@ -81,7 +81,7 @@
                             </stackView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" systemColor="scrollViewTexturedBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="t0q-nh-BXT" firstAttribute="height" secondItem="7XF-rk-KBL" secondAttribute="height" id="1W1-QF-K3T"/>
                             <constraint firstItem="vIi-Br-oWL" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="16" id="8k4-RW-MHV"/>
@@ -118,9 +118,6 @@
             <color red="0.43529411764705883" green="0.44313725490196076" blue="0.47450980392156861" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="secondarySystemGroupedBackgroundColor">
-            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-        </systemColor>
-        <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
         <systemColor name="systemOrangeColor">
